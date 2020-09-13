@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Platform
+  - Rock
+  - Box
+  - Wheel
+  - WheelI
+  - FireballL
+  - FireballR
+  - MovingPlatform
+  - Obstacle
+  - TextTrigger
+  - Ground
+  - Flag
+  - Turn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 509397221
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SecretWall
+    uniqueID: 2559873133
+    locked: 0
